@@ -18,3 +18,10 @@ Hello! I'm Juan José, a developer passionate about embedded technology, automot
 
 ---
 
+## 🌱 **Currently Exploring**
+
+- **QNX for automotive systems.**
+- **Development of advanced interfaces with Unreal Engine.**
+- **Improving neural network skills for embedded applications.**
+
+---
