@@ -14,7 +14,6 @@ Hello! I'm Juan José, a developer passionate about embedded technology, automot
 - **HMI Development:** Qt and QML for advanced user interfaces.
 - **AI & Computer Vision:** OpenCV integration in computer vision projects.
 - **Automotive:** Vehicle data connection and reading via OBD2.
-- **Real-Time Operating Systems:** Exploring FreeRTOS and QNX for critical automotive applications.
 
 ---
 
