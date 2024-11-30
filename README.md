@@ -9,7 +9,7 @@ Hello! I'm Juan José, a developer passionate about embedded technology, automot
 ## 🛠️ **Technical Skills**
 
 - **Programming Languages:** C, C++, Python, QML.
-- **Embedded Systems:** Raspberry Pi, ESP32, S32K144-Q100.
+- **Embedded Systems:** Raspberry Pi, ESP32, TM4C1294PCNDT.
 - **Communication Protocols:** SPI, I2C, CAN.
 - **HMI Development:** Qt and QML for advanced user interfaces.
 - **AI & Computer Vision:** OpenCV integration in computer vision projects.
