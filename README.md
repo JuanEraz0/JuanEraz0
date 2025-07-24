@@ -12,7 +12,7 @@ Hello! I'm Juan José, a developer passionate about embedded technology, automot
 - **Embedded Systems:** Raspberry Pi, ESP32, NVIDIA Jetson Series, TM4C1294PCNDT.
 - **Communication Protocols:** SPI, I2C, CAN, UART, TCP/IP.
 - **HMI Development:** Qt and QML for advanced user interfaces.
-- **AI & Computer Vision:** OpenCV integration in computer vision projects.
+- **AI & Computer Vision:** OpenCV integration in computer vision projects, PyTorch & YOLO Ultralytics for computer vision training models  .
 - **Automotive:** Vehicle data connection and reading via OBD2.
 
 ---
