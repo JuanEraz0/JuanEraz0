@@ -10,7 +10,7 @@ Hello! I'm Juan José, a developer passionate about embedded technology, automot
 
 - **Programming Languages:** C, C++, Python, QML.
 - **Embedded Systems:** Raspberry Pi, ESP32, NVIDIA Jetson Series, TM4C1294PCNDT.
-- **Communication Protocols:** SPI, I2C, CAN, UART.
+- **Communication Protocols:** SPI, I2C, CAN, UART, TCP/IP.
 - **HMI Development:** Qt and QML for advanced user interfaces.
 - **AI & Computer Vision:** OpenCV integration in computer vision projects.
 - **Automotive:** Vehicle data connection and reading via OBD2.
@@ -20,6 +20,7 @@ Hello! I'm Juan José, a developer passionate about embedded technology, automot
 ## 🌱 **Currently Exploring**
 
 - **QNX for automotive systems.**
+- **Flutter cross-platform development**
 - **Development of advanced interfaces with Unreal Engine.**
 - **Improving neural network skills for embedded applications.**
 
